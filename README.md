@@ -11,7 +11,7 @@ When a Euclidean metric is justified, orthogonal distance regression (odr.r) cou
 When a Euclidean metric is not justified, geometric mean regression (gmr.r) could be considered.
 
 Put another way, when invariance to arbitrary rotations of the coordinate system is important, 
-ODR is appropriate. When scale invariance is more important, use GMR. The choice
+orthogonal distance regression is appropriate. When scale invariance is more important, use geometric mean regression. The choice
 between them depends on which invariance property is relevant to the problem at hand.
 
 The odr.r function also returns the sample eigenvalues of the data, a sample estimate of the eccentricity
