@@ -19,3 +19,5 @@ of the best-fit elliptical contour to the bivariate data, and the sample Coleman
 
 See C. Tong (2011), "Concordance correlation decomposed into the
 product of precision and accuracy", JSM 2011 Proceedings, Biometrics Section, pp. 649-662.
+
+The above paper can be viewed at:  https://www.academia.edu/8840828/Concordance_correlation_coefficient_decomposed_into_the_product_of_precision_and_accuracy
